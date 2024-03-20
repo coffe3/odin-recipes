@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    background-color: rgb(189, 118, 255);
+    padding: 30px;
+    margin: 20px;
+}
+
+a:link { 
+    text-decoration: none; 
+} 
+
+a:visited { 
+    text-decoration: none; 
+} 
+
+a:hover { 
+    text-decoration: wavy;
+} 
+
+a:active { 
+    text-decoration: none; 
+}
+
+li {
+    font-size: 20px;
+    list-style: none;
+    text-align: center;
+}
+
+div {
+    padding: 20px;
+    margin: 5px;
+}
+
+.first {
+    background-color: aquamarine;
+}
+
+.second {
+    background-color: aqua;
+}
+
+.third {
+    background-color: bisque;
+}
+
+
+  
